@@ -10,7 +10,7 @@ Requires Java 1.8 or higher
                 $java HighestProductApp numberToProcess.txt 13 
                 
    to get the answer to the challenge.
-4. The program has been designed so that any file containing any number can calculate de product of k adjacent numbers. Thus, the generic command is:
+4. The program has been designed so that the product of k adjacent numbers can be calculated from any file containing any number. Thus, the generic command is:
 
                 $java HighestProductApp filename adjacentNumbers 
         
