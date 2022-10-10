@@ -25,7 +25,7 @@ Requires Java 1.8 or higher
                 
    to get the answer to the challenge. 
    
-   arrayToProcess.txt is the file that contains the actual array to be processed
+   "arrayToProcess.txt" is the file that contains the actual array to be processed
    
    "16" is the desired result of pairs [i,j] when summed
    
